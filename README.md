@@ -39,4 +39,4 @@ Thus becoming a very profitable company.
 **Where to Find Me:**
 
 * [![Linkedin Badge](https://img.shields.io/badge/-BrunoSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunorpsantos/)](https://www.linkedin.com/in/brunorpsantos/)
-* [![Gmail Badge](https://img.shields.io/badge/-brunosantos@usp.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunosantos@usp.com)](mailto:brunosantos@usp.com)
+* [![Gmail Badge](https://img.shields.io/badge/-brunosantos@usp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunosantos@usp.br)](mailto:brunosantos@usp.br)
