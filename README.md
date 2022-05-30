@@ -8,7 +8,7 @@
 
 ### About Me
 
-I am a student of Statistics and Data Science at USP (ICMC), I like to solve problems and I am passionate about Data Science.
+I'm a student of Statistics and Data Science at USP (ICMC), an analytics intern at Serasa Experian, I like to solve problems and I'm passionate about Data Science.
 
 I developed solutions for important business problems using data science. The projects present the entire pipeline for solving real problems, from Exploratory Data Analysis, through the application of Machine Learning algorithms, to the interpretation of errors and deployment of the model in production.
 
@@ -22,18 +22,20 @@ The details of each project can be viewed below:
 
   
 ### [Blocker Fraud Company - Fraud Detection - Classification ](https://github.com/brunosantos4/blocker_fraud_company)
-- This project uses machine learning techniques to classify fraud. The algorithm that obtained the best result was the Random Forest, obtaining 99.9% accuracy.
-Using a sample of 1,908,786 transactions, only 14 classifications were incorrect. The company has a revenue of $ 856,775,411.85 and an expense of $ 3,266,392.96.
-Thus becoming a very profitable company.
+- This project uses machine learning techniques to classify fraud. The algorithm that obtained the best result was the Light GBM, obtaining optimal recall and precision metrics.
   * Repository: https://github.com/brunosantos4/blocker_fraud_company
+
+### [Credit - Classification ](https://github.com/brunosantos4/Credito)
+- I classified customers between bad debtors and good debtors, so that a credit offer can be made. I used machine learning models with PyCaret and also neural networks with Keras.
+  * Repository: https://github.com/brunosantos4/Credito
   
 
 **Analytical Tools:**
 
-* **Data Processing and Analysis:** Python, R.
-* **Development:** Git.
+* **Data Processing and Analysis:** Python, R, SQL.
+* **Development:** Git/GitHub
 * **Data Vizualization:** Matplotlib, Plotly, Seaborn, Computer Vision.
-* **Machine Learning Modeling:** Classification, Regression, Clustering, Time Series.
+* **Machine Learning Modeling (Classification, Regression, Clustering, Time Series):** Scikit-learn, Keras, PySpark.
 * **Machine Learning Deployment:** Heroku.
     
 **Where to Find Me:**
