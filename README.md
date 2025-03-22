@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a student of Statistics and Data Science at USP (ICMC), an analytics intern at Serasa Experian, I like to solve problems and I'm passionate about Data Science.
+I am a Senior Data Scientist with a strong background in statistics, machine learning, and data-driven decision-making. Passionate about solving complex problems, I specialize in developing scalable predictive models, optimizing business processes, and deploying data solutions in production environments.
 
 I developed solutions for important business problems using data science. The projects present the entire pipeline for solving real problems, from Exploratory Data Analysis, through the application of Machine Learning algorithms, to the interpretation of errors and deployment of the model in production.
 
